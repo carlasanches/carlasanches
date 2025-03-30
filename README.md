@@ -3,7 +3,6 @@
 Thanks for visiting my portfolio! ❤️ 
 
 - 🎶 I’m currently working on [Composer](https://github.com/composernew/composer), a C++ library for music composition using genetic algorithms.
-- 🌱 I’m currently studying Kotlin, Java, and cloud platforms to improve my abilities with backend development for modern applications.
 - 👯 My previous contribution was with [AgeSQL](https://github.com/AGEDB-INC/AgeSQL), a command-line interface (CLI) client for PostgreSQL that supports Cypher queries with traditional SQL.
 
 ### Blog & Social Networks
